@@ -1,5 +1,6 @@
-### Hi there 👋
+### Víctor M. Rivas
 
+Profesor de Informática en la Universidad de Jaén.
 <!--
 **vrivas/vrivas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
