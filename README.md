@@ -1,4 +1,4 @@
-### Víctor M. Rivas
+### Víctor M. Rivas Santos
 
 Profesor de Informática en la Universidad de Jaén.
 
